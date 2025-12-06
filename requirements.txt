@@ -23,5 +23,5 @@ six==1.16.0
 soupsieve==2.3.1
 threadpoolctl==3.0.0
 tqdm==4.66.3
-urllib3==1.26.19
+urllib3==2.6.0
 Werkzeug==3.0.3
